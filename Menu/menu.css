@@ -1,0 +1,40 @@
+header{
+    padding: 20px 0;
+    background: linear-gradient(rgb(0, 166, 255),aqua);
+    font-family: Arial;
+    color: white;
+}
+
+.logo {
+    width: 150px;
+}
+
+.card-largura {
+    max-width: 18rem
+ }
+ .cartao-especial1{
+    color: white;
+    font-family: Tahoma;
+ }
+ .botao-especial1{
+    font-family: Tahoma;
+ }
+.navbar{
+    background-color: linear-gradient(aqua,rgb(0, 166, 255));
+}
+.box1 {
+   margin-top: 20px;
+
+}
+.botao-especial{
+    margin-top: 10px;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+.cartao-rodape{
+    background: linear-gradient(aqua,rgb(0, 166, 255));
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    
+}
